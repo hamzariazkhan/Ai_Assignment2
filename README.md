@@ -25,4 +25,4 @@ This is a terminal-based **Tic-Tac-Toe** game featuring an unbeatable AI powered
 ### Run the Game
 
 ```bash
-python tic_tac_toe_ai.py
+Tic_Tac_Toe_AI_with_Minimax_&_Alpha_Beta_Pruning.py
